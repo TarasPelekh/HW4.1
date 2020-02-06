@@ -21,10 +21,17 @@ img.displayed {
     margin-right: auto;
 }
 
+.eius {
+    color: blue;
+}
+
 section {
     text-align: center;
     margin-right: auto;
     margin-left: auto;
+}
+.dash {
+    border: black 4px dashed;
 }
 
 span {
